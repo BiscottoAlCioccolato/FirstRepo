@@ -1,2 +1,3 @@
 mi piace git.
-ciao mondo.
+ciao mondo.New line 1
+New line 2
